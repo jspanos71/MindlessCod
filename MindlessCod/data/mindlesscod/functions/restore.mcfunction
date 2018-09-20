@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:cod,nbt={FromBucket:0b},tag=a] run data merge entity @s {NoAI:0,Tags:[]}
